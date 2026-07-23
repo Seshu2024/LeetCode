@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Seshu2024/LeetCode/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/Seshu2024/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Seshu2024/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Seshu2024/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Seshu2024/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Seshu2024/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
