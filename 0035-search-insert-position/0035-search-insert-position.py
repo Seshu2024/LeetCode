@@ -12,9 +12,4 @@ class Solution:
                 l = mid+1
             else:
                 r = mid-1
-
-        if nums[mid] != target:
-                nums.append(target)
-                nums.sort()
-        return nums.index(target)
-        
+        return l
